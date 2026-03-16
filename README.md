@@ -1,2 +1,5 @@
-# my-photos
-Image assets and media files used for my websites and projects.
+# My Photos
+
+This repository contains image assets used in my projects and websites.
+
+Owner: RAYHAN BISWAS
